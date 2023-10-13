@@ -1,6 +1,4 @@
 region = "us-east-1"
-access_key = "AKIAT5O454ERQIIE6JNB"
-secret_key = "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"
 #azs "us-east-1a"
 vpc_cidr = "172.31.0.0/16"
 vpc_name = "first_vpc"
